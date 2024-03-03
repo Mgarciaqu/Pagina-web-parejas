@@ -13,7 +13,7 @@ document.getElementById('no-btn').addEventListener('click', function() {
 });
 
 document.getElementById('si-btn').addEventListener('click', function() {
-  alert('Ya ves como si querías😍!');
+  alert('Gracias mi amor, sos lo más hermoso y precioso de este mundo, te debo una salida a donde quieras ir😍💙!');
   // Restaurar el tamaño original del botón "Sí"
   this.style.transform = 'scale(1)';
 });
