@@ -13,7 +13,7 @@ document.getElementById('no-btn').addEventListener('click', function() {
 });
 
 document.getElementById('si-btn').addEventListener('click', function() {
-  alert('¡Sí! 😍 ¡Eres increíble!');
+  alert('Ya ves como si querías😍!');
   // Restaurar el tamaño original del botón "Sí"
   this.style.transform = 'scale(1)';
 });
