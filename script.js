@@ -13,7 +13,7 @@ document.getElementById('no-btn').addEventListener('click', function() {
 });
 
 document.getElementById('si-btn').addEventListener('click', function() {
-  alert("Gracias mi amor, sos lo más hermoso y precioso de este mundo, te ganaste un heladito y una hambrguesita😋Además te debo salida para que vayamos a donde quieras😍!!");
+  alert("Haz tomado la mejor decisión de toda tu vida, no te arrepentirás jamás, de ahora en adelante soy tu esclavo y toda palabra tuya son ordenes para mis oídos💘💘");
   // Restaurar el tamaño original del botón "Sí"
   this.style.transform = 'scale(1)';
 });
