@@ -2,39 +2,38 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #add8e6; /* Celeste */
-  }
-  
-  .container {
+    background-color: #d3d3d3; /* Blanco grisáceo */
+}
+
+.container {
     text-align: center;
     margin-top: 50px;
-  }
-  
-  h1 {
+}
+
+h1 {
     color: #333;
-  }
-  
-  .buttons {
+}
+
+.buttons {
     margin-top: 20px;
-  }
-  
-  button {
+}
+
+button {
     padding: 10px 20px;
     margin: 0 10px;
     font-size: 16px;
     cursor: pointer;
-  }
-  
-  button#si-btn {
+}
+
+button#si-btn {
     background-color: #4CAF50;
     color: white;
     border: none;
-  }
-  
-  button#no-btn {
+}
+
+button#no-btn {
     background-color: #f44336;
     color: white;
     border: none;
     position: absolute;
-  }
-  
+}
