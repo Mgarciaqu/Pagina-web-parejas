@@ -13,7 +13,7 @@ document.getElementById('no-btn').addEventListener('click', function() {
 });
 
 document.getElementById('si-btn').addEventListener('click', function() {
-  alert("Haz tomado la mejor decisión de toda tu vida, no te arrepentirás jamás, de ahora en adelante soy tu esclavo y toda palabra tuya son ordenes para mis oídos💘💘");
+  alert("Haz tomado la mejor decisión de toda tu vida, no te arrepentirás jamás, de ahora en adelante soy tu esclavo y cada palabra tuya es y será una orden para mis oídos💘💘");
   // Restaurar el tamaño original del botón "Sí"
   this.style.transform = 'scale(1)';
 });
